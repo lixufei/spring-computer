@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+gradle/
+gradlew.bat
+myJavaTest.iml
+spring-computer.iml
